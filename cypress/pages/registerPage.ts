@@ -124,7 +124,7 @@ export class RegisterPage extends BasePage {
         this.type(this.inputPassword, register.password)
 
         //this.fieldRepeatPassword("Sergio1234")
-        this.type(this.inputPassword, register.password)
+        this.type(this.inputRepeatPassword, register.password)
 
         //this.clickOnSubmit()
         this.click(this.btnSubmit)

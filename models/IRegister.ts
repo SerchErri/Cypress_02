@@ -10,5 +10,6 @@ export interface IRegister{
      ssn: string 
      username: string 
      password: string
+     repeatpassword: string
    
 }

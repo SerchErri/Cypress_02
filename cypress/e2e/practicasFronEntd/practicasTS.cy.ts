@@ -10,18 +10,19 @@ describe("Login a Pagina Web", () => {
     const loginUser = new LoginUser()
 
     
-    const resgiterOk: IRegister = {
+    const resgisterOk: IRegister = {
         name: 'Sergio', lastname: 'Errigo', adress: 'Direccion', city: 'Ciudad', state: 'Estado',
-        zipCode: 'Postal', phoneNumber: '1234567890', ssn: '987654321', username: 'Usuario', password: 'Password1'
+        zipCode: 'Postal', phoneNumber: '1234567890', ssn: '987654321', username: 'Sergio1234', password: 'Password12', repeatpassword: 'Password12'
     }
-    const userOk: IUser = { username: 'Usuario', password: 'Password1' }
+
+    const userOk: IUser = { username: 'Sergio1234', password: 'Password12' }
 
 
     it("Register", () => {
 
         loginUser.visitLogin()
 
-        registerUser.registerUser(resgiterOk)
+        registerUser.registerUser(resgisterOk)
     })
 
 
