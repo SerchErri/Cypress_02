@@ -1,0 +1,17 @@
+/*El "stubbing" es una técnica en el desarrollo y pruebas de software que consiste en reemplazar un componente real, 
+como una API o una dependencia, por una versión simulada (un "stub") para pruebas. El stub proporciona respuestas 
+predefinidas y controladas, lo que permite aislar la unidad de código que se está probando, escribir pruebas consistentes 
+y trabajar en el desarrollo incluso cuando las dependencias aún no están disponibles. */
+
+// Login en Londres
+
+/*TDD Test Driven Development
+
+TDD puede referirse a Test Driven Development (Desarrollo Dirigido por Pruebas), una metodología de desarrollo de software 
+donde se escriben pruebas antes que el código de producción. En TDD, el ciclo típico es:
+
+1. Escribir una prueba que falla.
+2. Escribir el código necesario para hacer la prueba pasar.
+3. Refactorizar el código para hacer la prueba pasar.
+
+*/
