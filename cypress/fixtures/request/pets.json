@@ -1,0 +1,26 @@
+{
+  "perro": {
+    "id": 1001,
+    "name": "Firulais",
+    "photoUrls": ["https://example.com/firulais.jpg"],
+    "status": "available",
+    "category": { "id": 10, "name": "dogs" },
+    "tags": [{ "id": 501, "name": "friendly" }]
+  },
+  "gato": {
+    "id": 1002,
+    "name": "Mishu",
+    "photoUrls": ["https://example.com/mishu.jpg"],
+    "status": "pending",
+    "category": { "id": 11, "name": "cats" },
+    "tags": [{ "id": 502, "name": "playful" }]
+  },
+  "loro": {
+    "id": 1003,
+    "name": "Pepe",
+    "photoUrls": ["https://example.com/pepe.jpg"],
+    "status": "available",
+    "category": { "id": 12, "name": "birds" },
+    "tags": [{ "id": 503, "name": "talkative" }]
+  }
+}
