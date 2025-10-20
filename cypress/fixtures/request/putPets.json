@@ -1,0 +1,21 @@
+{
+    "gato":
+    {
+    "id": 1000001002,
+    "name": "Mishu",
+    "photoUrls": [
+        "https://example.com/mishu.jpg"
+    ],
+    "status": "sold",
+    "category": {
+        "id": 11,
+        "name": "cats"
+    },
+    "tags": [
+        {
+            "id": 502,
+            "name": "playful"
+        }
+    ]
+}
+}

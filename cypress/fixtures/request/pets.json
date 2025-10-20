@@ -1,6 +1,6 @@
 {
   "perro": {
-    "id": 1001,
+    "id": 1000001001,
     "name": "Firulais",
     "photoUrls": ["https://example.com/firulais.jpg"],
     "status": "available",
@@ -8,7 +8,7 @@
     "tags": [{ "id": 501, "name": "friendly" }]
   },
   "gato": {
-    "id": 1002,
+    "id": 1000001002,
     "name": "Mishu",
     "photoUrls": ["https://example.com/mishu.jpg"],
     "status": "pending",
@@ -16,7 +16,7 @@
     "tags": [{ "id": 502, "name": "playful" }]
   },
   "loro": {
-    "id": 1003,
+    "id": 1000001003,
     "name": "Pepe",
     "photoUrls": ["https://example.com/pepe.jpg"],
     "status": "available",
